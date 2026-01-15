@@ -1,0 +1,6 @@
+streamlit
+pandas
+altair
+fpdf
+google-genai
+Pillow
